@@ -3,4 +3,3 @@
 
  estou aprendendo criar site e agora vou gerenciar meus repositorios!
  <a href="https://pauloeduardosaraiva.github.io/HTML-CSS/exercicios/exer001/index.html">executar exercicios 001.</a>
- hfdjytdtyftyri76df6ufu
